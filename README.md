@@ -29,7 +29,7 @@ To write a program to predict the price of cars using a multiple linear regressi
    - Visualize the actual vs predicted car prices using a scatter plot.
 
 ## Program:
-```
+```python
 /*
 Program to implement the multiple linear regression model for predicting car prices with cross-validation.
 
