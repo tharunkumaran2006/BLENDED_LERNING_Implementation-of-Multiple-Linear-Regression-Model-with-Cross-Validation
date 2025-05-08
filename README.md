@@ -29,13 +29,10 @@ To write a program to predict the price of cars using a multiple linear regressi
    - Visualize the actual vs predicted car prices using a scatter plot.
 
 ## Program:
+### Program to implement the multiple linear regression model for predicting car prices with cross-validation.
+### Developed by: THARUN V K
+### RegisterNumber:  212223230231
 ```python
-/*
-Program to implement the multiple linear regression model for predicting car prices with cross-validation.
-
-Developed by: THARUN V K
-RegisterNumber:  212223230231
-
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split, cross_val_score
@@ -81,8 +78,6 @@ plt.ylabel("Predicted Price")
 plt.title("Actual vs Predicted Prices")
 plt.grid(True)
 plt.show()
-
-*/
 ```
 
 ## Output:
